@@ -1,0 +1,17 @@
+{
+  "id": 3,
+  "identifier": "1",
+  "professor": "Kautella",
+  "date": "16/09/2019",
+  "classroom": 2204,
+  "roomLines": "10",
+  "roomColumns": "5",
+  "type": "Laboratório",
+  "course": "Ciência de Dados",
+  "semester": 3,
+  "beginsWhen": "81758353873875"
+  "endsWhen": "9898264262486"
+  "professorArriving": "986292694696",
+  "discipline": "Aprendizado de Máquina",
+  "theme": "Beyond Linearity",
+}
